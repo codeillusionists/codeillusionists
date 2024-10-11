@@ -17,7 +17,7 @@ This community is open to all **CSE students**—whether you're just starting ou
 
 ## 🚀 How to Get Involved
 1. **Follow us on Instagram** – Stay updated with our latest coding tips, challenges, and events!  
-   [Instagram](https://www.instagram.com/YourCommunityHandle)
+   [Instagram](https://www.instagram.com/codeillusionists)
    
 2. **Join our WhatsApp Group** – Connect with like-minded coders, collaborate on projects, and ask questions!  
   
