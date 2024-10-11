@@ -32,7 +32,7 @@ We’re open to contributions! Here’s how you can help:
 
 ## 🌍 Stay Connected
 Follow us across platforms for regular updates:
-- Instagram: [@YourCommunityHandle](https://www.instagram.com/codeillusionists)
+- Instagram: [@codeillusionists](https://www.instagram.com/codeillusionists)
 
 ## 🤝 Meet the Team
 Our coding community is managed by a passionate group of core members who believe in helping each other grow as coders. Interested in joining the core team? Let us know!
